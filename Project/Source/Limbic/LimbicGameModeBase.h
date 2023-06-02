@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class MYPROJECT3_API ALimbicGameModeBase : public AGameModeBase
+class LIMBIC_API ALimbicGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
